@@ -1,0 +1,69 @@
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding:20px;
+	
+	}
+	
+header {
+	height:90px;
+	background-color:#80C141;
+	padding:20px;
+	border-left: 20px solid #333;	
+	}
+
+header p {
+	text-align: center;
+	font-size:36px;
+}
+
+h1 {
+	margin:30 0 0 40px;
+	font-size:36px;
+	color:#333;
+	padding:20px;
+	
+	}
+	
+	#botonera_principal {
+	width:940px;
+	height:70px;
+	border-left: 20px solid #80C141;	
+	background-color:#FFF;
+	}
+
+#botonera_principal ul {
+	margin:0;
+	padding:20px;
+	list-style-type:none;}
+
+#botonera_principal ul li {
+	display: inline;
+}
+
+#botonera_principal ul li a {
+	display: inline-block;
+	color:#333;
+	text-decoration:none;
+	text-align: center;
+	border-right:1px dotted #CCC;
+	width: 187px;
+	height: 70px;
+	line-height: 70px;
+	
+	}
+	
+#botonera_principal ul li a:hover {
+	background-color:#80C141;
+	}
+	
+	footer {
+	background-color:#80C141;
+	padding:20px;
+	border-left: 20px solid #333;
+
+	}
+	
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
